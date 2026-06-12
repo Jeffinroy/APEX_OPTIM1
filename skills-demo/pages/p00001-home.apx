@@ -16,7 +16,7 @@ page 1 (
 
     region app-name (
         name: Home
-        title: Skills Demo
+        title: Skills Demo 
         type: staticContent
         layout {
             sequence: 10
@@ -224,7 +224,7 @@ page 1 (
     )
 
     region greeting (
-        name: Greeting
+        name: Welcome Greeting
         title: Welcome
         type: staticContent
         source {
