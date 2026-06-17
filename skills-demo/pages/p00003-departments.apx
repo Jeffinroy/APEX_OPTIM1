@@ -60,27 +60,25 @@ page 3 (
             }
         )
 
-        column DNAME (
-            reportColumnQueryId: 2
-            derivedColumn: N
-            heading {
-                heading: Department
-            }
-            layout {
-                sequence: 2
-            }
-        )
-
-        column LOC (
-            reportColumnQueryId: 3
-            derivedColumn: N
-            heading {
-                heading: Location
-            }
-            layout {
-                sequence: 3
-            }
-        )
+    column DNAME (
+        reportColumnQueryId: 2
+        derivedColumn: N
+        sequence: 2
+        derivedColumn: N
+        heading {
+            heading: Department
+        }
+    )
+    column LOC (
+        reportColumnQueryId: 3
+        derivedColumn: N
+        heading {
+            heading: Location
+        }
+        layout {
+            sequence: 3
+        }
+    )
 
     )
 
