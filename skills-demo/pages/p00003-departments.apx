@@ -16,7 +16,7 @@ page 3 (
 
     region departments-report (
         name: Departments
-        title: Department List
+        title: Departments List
         type: classicReport
         source {
             location: localDatabase

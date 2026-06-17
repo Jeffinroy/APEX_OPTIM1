@@ -1,5 +1,9 @@
 {
-  "app" : {
-    "id" : 152
+  "workspace": {
+    "name": "VENTURITOOL"
+  },
+  "app": {
+    "id": 1152
   }
 }
+
