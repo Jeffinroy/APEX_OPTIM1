@@ -1,8 +1,0 @@
-{
-  "app" : {
-    "id" : 181,
-    "runtime" : {
-      "logging" : false
-    }
-  }
-}
